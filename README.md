@@ -33,16 +33,20 @@ Paper collections of retrieval-based(augmented) language model.
 7. **NLP From Scratch Without Large-Scale Pretraining: A Simple and Efficient Framework.** Preprint.
    
    *Xingcheng Yao, Yanan Zheng, Xiaocong Yang, Zhilin Yang*  [[pdf](https://arxiv.org/abs/2111.04130)], [[implementation](https://github.com/yaoxingcheng/TLM)], 2021.11
+
+8. **End-to-End Training of Multi-Document Reader and Retriever for Open-Domain Question Answering.** NIPS.
    
-8. **Improving language models by retrieving from trillions of tokens.** Preprint.
+   *Devendra Singh Sachan, Siva Reddy, William Hamilton, Chris Dyer, Dani Yogatama*  [[pdf](https://arxiv.org/abs/2106.05346)], [[implementation](https://github.com/DevSinghSachan/emdr2)], 2021.6
+
+9. **Improving language models by retrieving from trillions of tokens.** Preprint.
    
    *Sebastian Borgeaud, Arthur Mensch, Jordan Hoffmann, Trevor Cai, Eliza Rutherford, Katie Millican, George van den Driessche, Jean-Baptiste Lespiau, Bogdan Damoc, Aidan Clark, Diego de Las Casas, Aurelia Guy, Jacob Menick, Roman Ring, Tom Hennigan, Saffron Huang, Loren Maggiore, Chris Jones, Albin Cassirer, Andy Brock, Michela Paganini, Geoffrey Irving, Oriol Vinyals, Simon Osindero, Karen Simonyan, Jack W. Rae, Erich Elsen, Laurent Sifre*  [[pdf](https://arxiv.org/abs/2112.04426)], [[unofficial-implementation](https://github.com/lucidrains/RETRO-pytorch)], 2021.12
 
-9. **Learning To Retrieve Prompts for In-Context Learning.** Preprint.
+10. **Learning To Retrieve Prompts for In-Context Learning.** Preprint.
    
    *Ohad Rubin, Jonathan Herzig, Jonathan Berant*  [[pdf](https://arxiv.org/abs/2112.08633)], [[implementation](https://github.com/OhadRubin/EPR)], 2021.12
    
-10. **LaMDA: Language Models for Dialog Applications.** Preprint.
+11. **LaMDA: Language Models for Dialog Applications.** Preprint.
    
    *Romal Thoppilan, Daniel De Freitas, Jamie Hall, Noam Shazeer, Apoorv Kulshreshtha, Heng-Tze Cheng, Alicia Jin, Taylor Bos, Leslie Baker, Yu Du, YaGuang Li, Hongrae Lee, Huaixiu Steven Zheng, Amin Ghafouri, Marcelo Menegali, Yanping Huang, Maxim Krikun, Dmitry Lepikhin, James Qin, Dehao Chen, Yuanzhong Xu, Zhifeng Chen, Adam Roberts, Maarten Bosma, Yanqi Zhou, Chung-Ching Chang, Igor Krivokon, Will Rusch, Marc Pickett, Kathleen Meier-Hellstern, Meredith Ringel Morris, Tulsee Doshi, Renelito Delos Santos, Toju Duke, Johnny Soraker, Ben Zevenbergen, Vinodkumar Prabhakaran, Mark Diaz, Ben Hutchinson, Kristen Olson, Alejandra Molina, Erin Hoffman-John, Josh Lee, Lora Aroyo, Ravi Rajakumar, Alena Butryna, Matthew Lamm, Viktoriya Kuzmina, Joe Fenton, Aaron Cohen, Rachel Bernstein, Ray Kurzweil, Blaise Aguera-Arcas, Claire Cui, Marian Croak, Ed Chi, Quoc Le*  [[pdf](https://arxiv.org/abs/2201.08239)], [[blog](https://ai.googleblog.com/2022/01/lamda-towards-safe-grounded-and-high.html)], 2022.1
    - Reason first, then respond: Modular generation for knowledge-infused dialogue.
