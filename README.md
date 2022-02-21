@@ -26,9 +26,9 @@ Paper collections of retrieval-based(augmented) language model.
    
    *Gautier Izacard, Edouard Grave*  [[pdf](https://arxiv.org/abs/2007.01282)], 2020.7
 
-6. **Leveraging Passage Retrieval with Generative Models for Open Domain Question Answering.** EACL.
+6. **Distilling Knowledge from Reader to Retriever for Question Answering.** Preprint.
    
-   *Gautier Izacard, Edouard Grave*  [[pdf](https://arxiv.org/abs/2007.01282)], 2020.7
+   *Gautier Izacard, Edouard Grave*  [[pdf](https://arxiv.org/abs/2012.04584)], 2021.12
    
 7. **Adaptive Semiparametric Language Models.** TACL.
    
