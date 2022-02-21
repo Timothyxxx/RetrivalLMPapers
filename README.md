@@ -59,5 +59,5 @@ Paper collections of retrieval-based(augmented) language model.
 
 12. **Transformer Memory as a Differentiable Search Index.** Preprint.
 
-    Yi Tay, Vinh Q. Tran, Mostafa Dehghani, Jianmo Ni, Dara Bahri, Harsh Mehta, Zhen Qin, Kai Hui, Zhe Zhao, Jai Gupta, Tal Schuster, William W. Cohen, Donald Metzler [pdf](https://arxiv.org/abs/2202.06991), [twitter](https://twitter.com/YiTayML/status/1494710879429877761), 2022.2
+    Yi Tay, Vinh Q. Tran, Mostafa Dehghani, Jianmo Ni, Dara Bahri, Harsh Mehta, Zhen Qin, Kai Hui, Zhe Zhao, Jai Gupta, Tal Schuster, William W. Cohen, Donald Metzler [[pdf](https://arxiv.org/abs/2202.06991)], [[twitter](https://twitter.com/YiTayML/status/1494710879429877761)], 2022.2
 
