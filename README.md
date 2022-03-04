@@ -28,7 +28,7 @@ Paper collections of retrieval-based(augmented) language model.
 
 6. **Distilling Knowledge from Reader to Retriever for Question Answering.** Preprint.
    
-   *Gautier Izacard, Edouard Grave*  [[pdf](https://arxiv.org/abs/2012.04584)], 2021.12
+   *Gautier Izacard, Edouard Grave*  [[pdf](https://arxiv.org/abs/2012.04584)], 2020.12
 
 7. **UniK-QA: Unified Representations of Structured and Unstructured Knowledge for Open-Domain Question Answering.** Preprint.
    
