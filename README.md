@@ -68,5 +68,9 @@ Paper collections of retrieval-based(augmented) language model.
 
 16. **Training Data is More Valuable than You Think: A Simple and Effective Method by Retrieving from Training Data.** Preprint.
 
-    Shuohang Wang, Yichong Xu, Yuwei Fang, Yang Liu, Siqi Sun, Ruochen Xu, Chenguang Zhu, Michael Zeng [[pdf](https://arxiv.org/abs/2203.08773)], [[code](https://github.com/microsoft/REINA)], 2022.2
+    Shuohang Wang, Yichong Xu, Yuwei Fang, Yang Liu, Siqi Sun, Ruochen Xu, Chenguang Zhu, Michael Zeng [[pdf](https://arxiv.org/abs/2203.08773)], [[code](https://github.com/microsoft/REINA)], 2022.3
+    
+17. **In-Context Learning for Few-Shot Dialogue State Tracking.** Preprint.
+
+    Yushi Hu, Chia-Hsuan Lee, Tianbao Xie, Tao Yu, Noah A. Smith, Mari Ostendorf [[pdf](https://arxiv.org/abs/2203.08568)], [[code](https://https//github.com/Yushi-Hu/IC-DST)], 2022.3
 
