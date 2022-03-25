@@ -66,3 +66,7 @@ Paper collections of retrieval-based(augmented) language model.
 
     Yi Tay, Vinh Q. Tran, Mostafa Dehghani, Jianmo Ni, Dara Bahri, Harsh Mehta, Zhen Qin, Kai Hui, Zhe Zhao, Jai Gupta, Tal Schuster, William W. Cohen, Donald Metzler [[pdf](https://arxiv.org/abs/2202.06991)], [[twitter](https://twitter.com/YiTayML/status/1494710879429877761)], 2022.2
 
+16. **Training Data is More Valuable than You Think: A Simple and Effective Method by Retrieving from Training Data.** Preprint.
+
+    Shuohang Wang, Yichong Xu, Yuwei Fang, Yang Liu, Siqi Sun, Ruochen Xu, Chenguang Zhu, Michael Zeng [[pdf](https://arxiv.org/abs/2203.08773)], [[code](https://github.com/microsoft/REINA)], 2022.2
+
