@@ -4,6 +4,10 @@
 
 Paper collections of retrieval-based(augmented) language model.
 
+## Survey
+1. **A Survey on Retrieval-Augmented Text Generation.** ICLR.
+  *Huayang Li, Yixuan Su, Deng Cai, Yan Wang, Lemao Liu*  [[pdf](https://arxiv.org/abs/2202.01110)] 2022.2
+
 ## Papers
 
 1. **Improving Neural Language Models with a Continuous Cache.** ICLR.
