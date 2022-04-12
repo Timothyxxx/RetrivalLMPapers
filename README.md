@@ -62,19 +62,22 @@ Paper collections of retrieval-based(augmented) language model.
 
     *Ohad Rubin, Jonathan Herzig, Jonathan Berant*  [[pdf](https://arxiv.org/abs/2112.08633)], [[implementation](https://github.com/OhadRubin/EPR)], 2021.12
 
-14. **LaMDA: Language Models for Dialog Applications.** Preprint.
+14. **Evidentiality-guided Generation for Knowledge-Intensive NLP Tasks.** Preprint.
+    *Akari Asai, Matt Gardner, Hannaneh Hajishirzi*  [[pdf](https://arxiv.org/abs/2112.08688)], [[code](https://github.com/akariasai/evidentiality_qa)], 2021.12
+
+15. **LaMDA: Language Models for Dialog Applications.** Preprint.
 
     *Romal Thoppilan, Daniel De Freitas, Jamie Hall, Noam Shazeer, Apoorv Kulshreshtha, Heng-Tze Cheng, Alicia Jin, Taylor Bos, Leslie Baker, Yu Du, YaGuang Li, Hongrae Lee, Huaixiu Steven Zheng, Amin Ghafouri, Marcelo Menegali, Yanping Huang, Maxim Krikun, Dmitry Lepikhin, James Qin, Dehao Chen, Yuanzhong Xu, Zhifeng Chen, Adam Roberts, Maarten Bosma, Yanqi Zhou, Chung-Ching Chang, Igor Krivokon, Will Rusch, Marc Pickett, Kathleen Meier-Hellstern, Meredith Ringel Morris, Tulsee Doshi, Renelito Delos Santos, Toju Duke, Johnny Soraker, Ben Zevenbergen, Vinodkumar Prabhakaran, Mark Diaz, Ben Hutchinson, Kristen Olson, Alejandra Molina, Erin Hoffman-John, Josh Lee, Lora Aroyo, Ravi Rajakumar, Alena Butryna, Matthew Lamm, Viktoriya Kuzmina, Joe Fenton, Aaron Cohen, Rachel Bernstein, Ray Kurzweil, Blaise Aguera-Arcas, Claire Cui, Marian Croak, Ed Chi, Quoc Le*  [[pdf](https://arxiv.org/abs/2201.08239)], [[blog](https://ai.googleblog.com/2022/01/lamda-towards-safe-grounded-and-high.html)], 2022.1
 
-15. **Transformer Memory as a Differentiable Search Index.** Preprint.
+16. **Transformer Memory as a Differentiable Search Index.** Preprint.
 
     Yi Tay, Vinh Q. Tran, Mostafa Dehghani, Jianmo Ni, Dara Bahri, Harsh Mehta, Zhen Qin, Kai Hui, Zhe Zhao, Jai Gupta, Tal Schuster, William W. Cohen, Donald Metzler [[pdf](https://arxiv.org/abs/2202.06991)], [[twitter](https://twitter.com/YiTayML/status/1494710879429877761)], 2022.2
 
-16. **Training Data is More Valuable than You Think: A Simple and Effective Method by Retrieving from Training Data.** Preprint.
+17. **Training Data is More Valuable than You Think: A Simple and Effective Method by Retrieving from Training Data.** Preprint.
 
     Shuohang Wang, Yichong Xu, Yuwei Fang, Yang Liu, Siqi Sun, Ruochen Xu, Chenguang Zhu, Michael Zeng [[pdf](https://arxiv.org/abs/2203.08773)], [[code](https://github.com/microsoft/REINA)], 2022.3
     
-17. **In-Context Learning for Few-Shot Dialogue State Tracking.** Preprint.
+18. **In-Context Learning for Few-Shot Dialogue State Tracking.** Preprint.
 
     Yushi Hu, Chia-Hsuan Lee, Tianbao Xie, Tao Yu, Noah A. Smith, Mari Ostendorf [[pdf](https://arxiv.org/abs/2203.08568)], [[code](https://https//github.com/Yushi-Hu/IC-DST)], 2022.3
 
