@@ -85,3 +85,6 @@ Paper collections of retrieval-based(augmented) language model.
 
     Yushi Hu, Chia-Hsuan Lee, Tianbao Xie, Tao Yu, Noah A. Smith, Mari Ostendorf [[pdf](https://arxiv.org/abs/2203.08568)], [[code](https://https//github.com/Yushi-Hu/IC-DST)], 2022.3
 
+20. **Unsupervised Cross-Task Generalization via Retrieval Augmentation.** Preprint.
+
+    Bill Yuchen Lin, Kangmin Tan, Chris Miller, Beiwen Tian, Xiang Ren [[pdf](https://arxiv.org/abs/2204.07937)], [[code](https://github.com/INK-USC/ReCross)], 2022.4
