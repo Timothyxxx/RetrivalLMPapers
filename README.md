@@ -73,18 +73,22 @@ Paper collections of retrieval-based(augmented) language model.
 
     *Romal Thoppilan, Daniel De Freitas, Jamie Hall, Noam Shazeer, Apoorv Kulshreshtha, Heng-Tze Cheng, Alicia Jin, Taylor Bos, Leslie Baker, Yu Du, YaGuang Li, Hongrae Lee, Huaixiu Steven Zheng, Amin Ghafouri, Marcelo Menegali, Yanping Huang, Maxim Krikun, Dmitry Lepikhin, James Qin, Dehao Chen, Yuanzhong Xu, Zhifeng Chen, Adam Roberts, Maarten Bosma, Yanqi Zhou, Chung-Ching Chang, Igor Krivokon, Will Rusch, Marc Pickett, Kathleen Meier-Hellstern, Meredith Ringel Morris, Tulsee Doshi, Renelito Delos Santos, Toju Duke, Johnny Soraker, Ben Zevenbergen, Vinodkumar Prabhakaran, Mark Diaz, Ben Hutchinson, Kristen Olson, Alejandra Molina, Erin Hoffman-John, Josh Lee, Lora Aroyo, Ravi Rajakumar, Alena Butryna, Matthew Lamm, Viktoriya Kuzmina, Joe Fenton, Aaron Cohen, Rachel Bernstein, Ray Kurzweil, Blaise Aguera-Arcas, Claire Cui, Marian Croak, Ed Chi, Quoc Le*  [[pdf](https://arxiv.org/abs/2201.08239)], [[blog](https://ai.googleblog.com/2022/01/lamda-towards-safe-grounded-and-high.html)], 2022.1
 
-17. **Transformer Memory as a Differentiable Search Index.** Preprint.
+17. **Neuro-Symbolic Language Modeling with Automaton-augmented Retrieval.** Preprint.
+
+    Uri Alon, Frank F. Xu, Junxian He, Sudipta Sengupta, Dan Roth, Graham Neubig [[pdf](https://arxiv.org/abs/2202.06991)], [[pdf](https://arxiv.org/abs/2201.12431)], 2022.1
+
+18. **Transformer Memory as a Differentiable Search Index.** Preprint.
 
     Yi Tay, Vinh Q. Tran, Mostafa Dehghani, Jianmo Ni, Dara Bahri, Harsh Mehta, Zhen Qin, Kai Hui, Zhe Zhao, Jai Gupta, Tal Schuster, William W. Cohen, Donald Metzler [[pdf](https://arxiv.org/abs/2202.06991)], [[twitter](https://twitter.com/YiTayML/status/1494710879429877761)], 2022.2
 
-18. **Training Data is More Valuable than You Think: A Simple and Effective Method by Retrieving from Training Data.** Preprint.
+19. **Training Data is More Valuable than You Think: A Simple and Effective Method by Retrieving from Training Data.** Preprint.
 
     Shuohang Wang, Yichong Xu, Yuwei Fang, Yang Liu, Siqi Sun, Ruochen Xu, Chenguang Zhu, Michael Zeng [[pdf](https://arxiv.org/abs/2203.08773)], [[code](https://github.com/microsoft/REINA)], 2022.3
     
-19. **In-Context Learning for Few-Shot Dialogue State Tracking.** Preprint.
+20. **In-Context Learning for Few-Shot Dialogue State Tracking.** Preprint.
 
     Yushi Hu, Chia-Hsuan Lee, Tianbao Xie, Tao Yu, Noah A. Smith, Mari Ostendorf [[pdf](https://arxiv.org/abs/2203.08568)], [[code](https://https//github.com/Yushi-Hu/IC-DST)], 2022.3
 
-20. **Unsupervised Cross-Task Generalization via Retrieval Augmentation.** Preprint.
+21. **Unsupervised Cross-Task Generalization via Retrieval Augmentation.** Preprint.
 
     Bill Yuchen Lin, Kangmin Tan, Chris Miller, Beiwen Tian, Xiang Ren [[pdf](https://arxiv.org/abs/2204.07937)], [[code](https://github.com/INK-USC/ReCross)], 2022.4
