@@ -92,3 +92,7 @@ Paper collections of retrieval-based(augmented) language model.
 21. **Unsupervised Cross-Task Generalization via Retrieval Augmentation.** Preprint.
 
     Bill Yuchen Lin, Kangmin Tan, Chris Miller, Beiwen Tian, Xiang Ren [[pdf](https://arxiv.org/abs/2204.07937)], [[code](https://github.com/INK-USC/ReCross)], 2022.4
+
+22. **Training Language Models with Memory Augmentation.** Preprint.
+
+    Zexuan Zhong, Tao Lei, Danqi Chen [[pdf](https://arxiv.org/abs/2205.12674)], [[code](https://github.com/princeton-nlp/trime)], 2022.5
