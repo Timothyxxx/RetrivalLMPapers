@@ -96,3 +96,8 @@ Paper collections of retrieval-based(augmented) language model.
 22. **Training Language Models with Memory Augmentation.** Preprint.
 
     Zexuan Zhong, Tao Lei, Danqi Chen [[pdf](https://arxiv.org/abs/2205.12674)], [[code](https://github.com/princeton-nlp/trime)], 2022.5
+
+
+23. **Training Language Models with Memory Augmentation.** Preprint.
+
+    Gautier Izacard, Patrick Lewis, Maria Lomeli, Lucas Hosseini, Fabio Petroni, Timo Schick, Jane Dwivedi-Yu, Armand Joulin, Sebastian Riedel, Edouard Grave [[pdf](https://arxiv.org/abs/2208.03299)], 2022.8.** Preprint.
