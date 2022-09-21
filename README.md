@@ -2,7 +2,7 @@
 
 ![](https://img.shields.io/github/last-commit/Timothyxxx/RetrivalLMPapers?color=green)
 
-Paper collections of retrieval-based(augmented) language model.
+Paper collections of retrieval-based(augmented) methods on/related to language modeling.
 
 ## Survey
 1. **A Survey on Retrieval-Augmented Text Generation.** Preprint.
