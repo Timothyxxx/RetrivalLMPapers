@@ -10,9 +10,13 @@ Paper collections of retrieval-based(augmented) language model.
 
 ## Papers
 
-1. **Improving Neural Language Models with a Continuous Cache.** ICLR.
+0.5. **Improving Neural Language Models with a Continuous Cache.** ICLR.
 
    *Edouard Grave, Armand Joulin, Nicolas Usunier*  [[pdf](https://arxiv.org/abs/1612.04426)] 2016.12
+
+1. **Coupling Retrieval and Meta-Learning for Context-Dependent Semantic Parsing.** ACL.
+
+   *Daya Guo, Duyu Tang, Nan Duan, Ming Zhou, Jian Yin*  [[pdf](https://arxiv.org/abs/1906.07108)] 2019.6
 
 2. **Generalization through Memorization: Nearest Neighbor Language Models.** ICLR.
    
@@ -97,11 +101,14 @@ Paper collections of retrieval-based(augmented) language model.
 
     Zexuan Zhong, Tao Lei, Danqi Chen [[pdf](https://arxiv.org/abs/2205.12674)], [[code](https://github.com/princeton-nlp/trime)], 2022.5
 
+23. **Decoupling Knowledge from Memorization: Retrieval-augmented Prompt Learning.** NeurIPS 2022.
 
-23. **Relation Extraction as Open-book Examination: Retrieval-enhanced Prompt Tuning.** SIGIR 2022.
+    Xiang Chen, Lei Li, Ningyu Zhang, Xiaozhuan Liang, Shumin Deng, Chuanqi Tan, Fei Huang, Luo Si, Huajun Chen [[pdf](https://arxiv.org/abs/2205.14704)], 2022.5
+
+24. **Relation Extraction as Open-book Examination: Retrieval-enhanced Prompt Tuning.** SIGIR 2022.
 
     Xiang Chen, Lei Li, Ningyu Zhang, Chuanqi Tan, Fei Huang, Luo Si, Huajun Chen [[pdf](https://arxiv.org/abs/2205.02355)], 2022.8.
     
-24. **Decoupling Knowledge from Memorization: Retrieval-augmented Prompt Learning.** NeurIPS 2022.
+25. **Selective Annotation Makes Language Models Better Few-Shot Learners.** arxiv.
 
-    Xiang Chen, Lei Li, Ningyu Zhang, Xiaozhuan Liang, Shumin Deng, Chuanqi Tan, Fei Huang, Luo Si, Huajun Chen [[pdf](https://arxiv.org/abs/2205.14704)], 2022.5
+    Hongjin Su, Jungo Kasai, Chen Henry Wu, Weijia Shi, Tianlu Wang, Jiayi Xin, Rui Zhang, Mari Ostendorf, Luke Zettlemoyer, Noah A. Smith, Tao Yu [[pdf](https://arxiv.org/abs/2209.01975)], [[code](https://github.com/HKUNLP/icl-selective-annotation)], [[twitter](https://twitter.com/wittgen_ball/status/1568302230490730497)]  2022.9.
