@@ -98,6 +98,10 @@ Paper collections of retrieval-based(augmented) language model.
     Zexuan Zhong, Tao Lei, Danqi Chen [[pdf](https://arxiv.org/abs/2205.12674)], [[code](https://github.com/princeton-nlp/trime)], 2022.5
 
 
-23. **Training Language Models with Memory Augmentation.** Preprint.
+23. **Relation Extraction as Open-book Examination: Retrieval-enhanced Prompt Tuning.** SIGIR 2022.
 
-    Gautier Izacard, Patrick Lewis, Maria Lomeli, Lucas Hosseini, Fabio Petroni, Timo Schick, Jane Dwivedi-Yu, Armand Joulin, Sebastian Riedel, Edouard Grave [[pdf](https://arxiv.org/abs/2208.03299)], 2022.8.** Preprint.
+    Xiang Chen, Lei Li, Ningyu Zhang, Chuanqi Tan, Fei Huang, Luo Si, Huajun Chen [[pdf](https://arxiv.org/abs/2205.02355)], 2022.8.
+    
+24. **Decoupling Knowledge from Memorization: Retrieval-augmented Prompt Learning.** NeurIPS 2022.
+
+    Xiang Chen, Lei Li, Ningyu Zhang, Xiaozhuan Liang, Shumin Deng, Chuanqi Tan, Fei Huang, Luo Si, Huajun Chen [[pdf](https://arxiv.org/abs/2205.14704)], 2022.5
