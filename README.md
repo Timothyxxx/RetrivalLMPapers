@@ -103,11 +103,11 @@ Paper collections of retrieval-based(augmented) methods on/related to language m
 
 23. **Decoupling Knowledge from Memorization: Retrieval-augmented Prompt Learning.** NeurIPS 2022.
 
-    Xiang Chen, Lei Li, Ningyu Zhang, Xiaozhuan Liang, Shumin Deng, Chuanqi Tan, Fei Huang, Luo Si, Huajun Chen [[pdf](https://arxiv.org/abs/2205.14704)], 2022.5
+    Xiang Chen, Lei Li, Ningyu Zhang, Xiaozhuan Liang, Shumin Deng, Chuanqi Tan, Fei Huang, Luo Si, Huajun Chen [[pdf](https://arxiv.org/abs/2205.14704)],  [[code](https://github.com/zjunlp/PromptKG/tree/main/research/RetroPrompt)], 2022.5
 
 24. **Relation Extraction as Open-book Examination: Retrieval-enhanced Prompt Tuning.** SIGIR 2022.
 
-    Xiang Chen, Lei Li, Ningyu Zhang, Chuanqi Tan, Fei Huang, Luo Si, Huajun Chen [[pdf](https://arxiv.org/abs/2205.02355)], 2022.8.
+    Xiang Chen, Lei Li, Ningyu Zhang, Chuanqi Tan, Fei Huang, Luo Si, Huajun Chen [[pdf](https://arxiv.org/abs/2205.02355)],  [[code](https://github.com/zjunlp/PromptKG/tree/main/research/RetrievalRE)], 2022.8.
     
 25. **Selective Annotation Makes Language Models Better Few-Shot Learners.** arxiv.
 
