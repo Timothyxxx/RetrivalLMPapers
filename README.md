@@ -112,3 +112,7 @@ Paper collections of retrieval-based(augmented) methods on/related to language m
 25. **Selective Annotation Makes Language Models Better Few-Shot Learners.** arxiv.
 
     Hongjin Su, Jungo Kasai, Chen Henry Wu, Weijia Shi, Tianlu Wang, Jiayi Xin, Rui Zhang, Mari Ostendorf, Luke Zettlemoyer, Noah A. Smith, Tao Yu [[pdf](https://arxiv.org/abs/2209.01975)], [[code](https://github.com/HKUNLP/icl-selective-annotation)], [[twitter](https://twitter.com/wittgen_ball/status/1568302230490730497)]  2022.9.
+
+26. **Promptagator: Few-shot Dense Retrieval From 8 Examples.** arxiv.
+
+    Zhuyun Dai, Vincent Y. Zhao, Ji Ma, Yi Luan, Jianmo Ni, Jing Lu, Anton Bakalov, Kelvin Guu, Keith B. Hall, Ming-Wei Chang [[pdf](https://arxiv.org/abs/2209.11755)] 2022.9.
