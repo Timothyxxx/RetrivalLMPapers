@@ -116,3 +116,7 @@ Paper collections of retrieval-based(augmented) methods on/related to language m
 26. **Promptagator: Few-shot Dense Retrieval From 8 Examples.** arxiv.
 
     Zhuyun Dai, Vincent Y. Zhao, Ji Ma, Yi Luan, Jianmo Ni, Jing Lu, Anton Bakalov, Kelvin Guu, Keith B. Hall, Ming-Wei Chang [[pdf](https://arxiv.org/abs/2209.11755)] 2022.9.
+
+27. **Open-domain Question Answering via Chain of Reasoning over Heterogeneous Knowledge.** arxiv.
+
+    Kaixin Ma, Hao Cheng, Xiaodong Liu, Eric Nyberg, Jianfeng Gao [[pdf](https://arxiv.org/abs/2210.12338)] 2022.10.
