@@ -117,6 +117,10 @@ Paper collections of retrieval-based(augmented) methods on/related to language m
 
     Zhuyun Dai, Vincent Y. Zhao, Ji Ma, Yi Luan, Jianmo Ni, Jing Lu, Anton Bakalov, Kelvin Guu, Keith B. Hall, Ming-Wei Chang [[pdf](https://arxiv.org/abs/2209.11755)] 2022.9.
 
-27. **Open-domain Question Answering via Chain of Reasoning over Heterogeneous Knowledge.** arxiv.
+27. **Generate rather than Retrieve: Large Language Models are Strong Context Generators.** arxiv.
+
+    Wenhao Yu, Dan Iter, Shuohang Wang, Yichong Xu, Mingxuan Ju, Soumya Sanyal, Chenguang Zhu, Michael Zeng, Meng Jiang [[pdf](https://arxiv.org/abs/2209.10063)] 2022.9.
+
+28. **Open-domain Question Answering via Chain of Reasoning over Heterogeneous Knowledge.** arxiv.
 
     Kaixin Ma, Hao Cheng, Xiaodong Liu, Eric Nyberg, Jianfeng Gao [[pdf](https://arxiv.org/abs/2210.12338)] 2022.10.
