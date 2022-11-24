@@ -124,3 +124,7 @@ Paper collections of retrieval-based(augmented) methods on/related to language m
 28. **Open-domain Question Answering via Chain of Reasoning over Heterogeneous Knowledge.** arxiv.
 
     Kaixin Ma, Hao Cheng, Xiaodong Liu, Eric Nyberg, Jianfeng Gao [[pdf](https://arxiv.org/abs/2210.12338)] 2022.10.
+
+29. **Retrieval-Augmented Multimodal Language Modeling.** arxiv.
+
+    Michihiro Yasunaga, Armen Aghajanyan, Weijia Shi, Rich James, Jure Leskovec, Percy Liang, Mike Lewis, Luke Zettlemoyer, Wen-tau Yih [[pdf](https://arxiv.org/abs/2211.12561)] 2022.11.
