@@ -128,3 +128,7 @@ Paper collections of retrieval-based(augmented) methods on/related to language m
 29. **Retrieval-Augmented Multimodal Language Modeling.** arxiv.
 
     Michihiro Yasunaga, Armen Aghajanyan, Weijia Shi, Rich James, Jure Leskovec, Percy Liang, Mike Lewis, Luke Zettlemoyer, Wen-tau Yih [[pdf](https://arxiv.org/abs/2211.12561)] 2022.11.
+
+30. **KAUCUS: Knowledge Augmented User Simulators for Training Language Model Assistants.** EACL 2024.
+
+    Kaustubh D. Dhole [[pdf](https://aclanthology.org/2024.scichat-1.5/)] 2024.4.
